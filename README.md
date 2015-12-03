@@ -12,8 +12,8 @@ Node js(esp. package 'express')
 ####File Explanations
 data.xls - Key-Value pair of data which needs to be stored on redis server instances.  
 index.php - php file that needs to be executed on localhost(via Wamp).  
-Test.js - Node js file which needs to be executed before running the distribution of Keys. 
-ConsistentHahing.jar - a jar file of the code which is exceuted via node js i.e. through Test.js. 
+Test.js - Node js file which needs to be executed before running the distribution of Keys.    
+ConsistentHahing.jar - a jar file of the code which is exceuted via node js i.e. through Test.js.   
 ConsistentHashing - Folder that has java code in it.  
 
 ###Steps
