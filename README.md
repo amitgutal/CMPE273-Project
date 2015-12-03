@@ -20,3 +20,5 @@ Node js(esp. package 'express')
 8) Wait for sometime i.e. until "somefile.csv" is created in the folder.  
 9) Refresh the browser.  
 Now you see a pieChart explaining the count of Keys on the Servers.Also you can see logfile details as well.  
+
+Comments: The java project (ConsistentHashing folder), can also be executed separately to test the functionality, just make sure to change the file paths(data.xls/somefile.csv) in the code.
